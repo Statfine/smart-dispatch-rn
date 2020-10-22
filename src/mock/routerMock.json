@@ -1,0 +1,35 @@
+{
+  "initialRouteName": "Hiforce",
+  "pages": [
+    {
+      "type": "tab",
+      "name": "Hiforce",
+      "initialRouteName": "Home",
+      "pages": [
+        { "name": "Home", "title": "首页" },
+        { "name": "User", "title": "我"},
+        { "name": "Set", "title": "设置" }
+      ]
+    },
+    {
+      "type": "page",
+      "page": { "name": "Home", "title": "首页" }
+    },
+    {
+      "type": "page",
+      "page": { "name": "User", "title": "我" }
+    },
+    {
+      "type": "page",
+      "page": { "name": "Set", "title": "设置" }
+    },
+    {
+      "type": "page",
+      "page": { "name": "Login", "title": "登录" }
+    },
+    {
+      "type": "page",
+      "page": { "name": "Detail", "title": "详情" }
+    }
+  ]
+}

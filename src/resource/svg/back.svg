@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/left</title>
+    <g id="icon/left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="left" fill="#000000" fill-rule="nonzero">
+            <rect id="矩形" opacity="0" x="0" y="0" width="40" height="40"></rect>
+            <path d="M28,8.37693102 L28,5.3172912 C28,5.05209603 27.6926471,4.90564496 27.485084,5.06792858 L9.49096639,19.0045286 C8.83634454,19.5111701 8.83634454,20.4888299 9.49096639,20.9954714 L27.485084,34.9320714 C27.6966387,35.094355 28,34.947904 28,34.6827088 L28,31.623069 C28,31.4291203 27.9081933,31.2430878 27.7565126,31.1243437 L13.3867647,20.0019791 L27.7565126,8.87565627 C27.9081933,8.75691216 28,8.57087973 28,8.37693102 Z" id="路径"></path>
+        </g>
+    </g>
+</svg>
